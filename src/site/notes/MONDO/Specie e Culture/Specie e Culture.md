@@ -3,16 +3,15 @@
 ---
 
 
-
 > Le isole sparse di questo mondo non sono solo frammenti di terra, ma scrigni di vita e tradizioni. Ogni popolo, umano o meno, ha forgiato la propria identità in questo mosaico di mari e terre emerse. Comprendere le loro usanze, le loro credenze e le loro interazioni è essenziale per navigare non solo le acque, ma anche le complesse correnti della società.
 
 In questo capitolo dell'enciclopedia troverete tutte le razze conosciute che popolano l'[[MONDO/Arcipelago Lumina/Arcipelago Lumina\|Arcipelago Lumina]]. Ognuna di esse presenta tradizioni, costumi e ricorrenze uniche che meritano di essere approfondite in capitoli dedicati. 
 
 Ecco dunque una lista di tutte le razze conosciute:
 
-1. [[Umani\|Umani]] : versatili pescatori e la razza più numerosa dell'Arcipelago.
+1. [[MONDO/Specie e Culture/Razze e Culture/Umani\|Umani]] : versatili pescatori e la razza più numerosa dell'Arcipelago.
 2. [[Elfi\|Elfi]] : vivono a stretto contatto con la natura che venerano come una divinità.
-3. [[Mezz'Elfi\|Mezz'Elfi]] : incrocio tra [[Umani\|Umani]] ed [[Elfi\|Elfi]].
+3. [[Mezz'Elfi\|Mezz'Elfi]] : incrocio tra [[MONDO/Specie e Culture/Razze e Culture/Umani\|Umani]] ed [[Elfi\|Elfi]].
 4. [[Drow\|Drow]] : lontani cugini degli [[Elfi\|Elfi]], più tribali e sciamanici. 
 5. [[Orchi\|Orchi]] : bruti e barbari, la loro civiltà è basata sulla forza bruta e il rispetto del più forte.
 6. [[Goblin\|Goblin]] : abili mercanti e astuti contrattatori.
