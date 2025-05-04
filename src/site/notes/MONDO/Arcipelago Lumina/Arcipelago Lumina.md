@@ -19,7 +19,7 @@ Sotto vi è stata fornita una lista delle principali isole che compongono L'[[MO
 
 Di seguito troverete la lista delle isole minori che compongono L'[[MONDO/Arcipelago Lumina/Arcipelago Lumina\|Arcipelago Lumina]]:
 
-4. [[Aethelgard\|Aethelgard]] : abitata principalmente da [[Umani\|Umani]], [[Elfi\|Elfi]] e [[Mezz'Elfi\|Mezz'Elfi]].
+4. [[Aethelgard\|Aethelgard]] : abitata principalmente da [[MONDO/Specie e Culture/Razze e Culture/Umani\|Umani]], [[Elfi\|Elfi]] e [[Mezz'Elfi\|Mezz'Elfi]].
 5. [[Fizzwick\|Fizzwick]] : popolata da [[Nani\|Nani]], [[Gnomi\|Gnomi]] e [[Halfling\|Halfling]]. 
 6. [[Vael\|Vael]] : la cui popolazione è costituita da [[Drow\|Drow]], [[Orchi\|Orchi]], [[Goblin\|Goblin]] e [[Mezz'Orchi\|Mezz'Orchi]]. 
 7. [[Escalion\|Escalion]] : luogo d'origine di [[Dragonidi\|Dragonidi]] e [[Koboldi\|Koboldi]].
