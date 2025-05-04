@@ -9,7 +9,7 @@
 
 Il mondo non ha un nome definito, la storia sua storia troppo breve per tramandarne uno... Sappiamo però che esso è ricoperto principalmente da acqua salata, con sporadiche isole cosparse per l'oceano sconfinato.
 
-La peculiarità del mondo è la sua varietà di [[Specie e Culture\|Specie e Culture]], sono infatti presenti [[Umani\|Umani]], [[Elfi\|Elfi]], [[Nani\|Nani]], [[Gnomi\|Gnomi]], [[Halfling\|Halfling]], [[Orchi\|Orchi]], [[Drow\|Drow]], [[Dragonidi\|Dragonidi]], [[Goblin\|Goblin]], [[Koboldi\|Koboldi]], [[Tiefling\|Tiefling]] e combinazioni nate dall'unione delle varie specie come [[Mezz'Elfi\|Mezz'Elfi]] e [[Mezz'Orchi\|Mezz'Orchi]]. 
+La peculiarità del mondo è la sua varietà di [[MONDO/Specie e Culture/Specie e Culture\|Specie e Culture]], sono infatti presenti [[MONDO/Specie e Culture/Razze e Culture/Umani\|Umani]], [[Elfi\|Elfi]], [[Nani\|Nani]], [[Gnomi\|Gnomi]], [[Halfling\|Halfling]], [[Orchi\|Orchi]], [[Drow\|Drow]], [[Dragonidi\|Dragonidi]], [[Goblin\|Goblin]], [[Koboldi\|Koboldi]], [[Tiefling\|Tiefling]] e combinazioni nate dall'unione delle varie specie come [[Mezz'Elfi\|Mezz'Elfi]] e [[Mezz'Orchi\|Mezz'Orchi]]. 
 
 Ma forse, la caratteristica più intrigante di questo oceano è la presenza di una enorme muraglia di roccia insormontabile via nave e impossibile da scalare che abbraccia l'[[MONDO/Arcipelago Lumina/Arcipelago Lumina\|Arcipelago Lumina]], quasi ad isolarlo. Questa barriera naturale viene chiamata il [[MONDO/Luoghi d'Interesse/Confine\|Confine]], la sua origine? Tutt'oggi un mistero...
 
