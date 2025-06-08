@@ -14,16 +14,20 @@ L'arcipelago è un vero e proprio campionario di formazioni geologiche. Si ergon
 Sotto vi è stata fornita una lista delle principali isole che compongono L'[[MONDO/Arcipelago Lumina/Arcipelago Lumina\|Arcipelago Lumina]]:
 
 1. [[Meridia\|Meridia]] : situata al centro dell'arcipelago e maggior centro commerciale.
-2. [[Runeguard\|Runeguard]] : principale centro militare dell'arcipelago.
+2. [[MONDO/Arcipelago Lumina/Isole/Runeguard\|Runeguard]] : principale centro militare dell'arcipelago.
 3. [[Netherwatch\|Netherwatch]] : l'isola più vicina al [[MONDO/Luoghi d'Interesse/Confine\|Confine]]. viene soprannominata *l'isola alla fine del mondo*. 
 
 Di seguito troverete la lista delle isole minori che compongono L'[[MONDO/Arcipelago Lumina/Arcipelago Lumina\|Arcipelago Lumina]]:
 
-4. [[Aethelgard\|Aethelgard]] : abitata principalmente da [[MONDO/Specie e Culture/Razze e Culture/Umani\|Umani]], [[Elfi\|Elfi]] e [[Mezz'Elfi\|Mezz'Elfi]].
+4. [[MONDO/Arcipelago Lumina/Isole/Aethelgard\|Aethelgard]] : abitata principalmente da [[MONDO/Specie e Culture/Razze e Culture/Umani\|Umani]], [[Elfi\|Elfi]] e [[MONDO/Specie e Culture/Razze e Culture/Mezz'Elfi\|Mezz'Elfi]].
 5. [[Fizzwick\|Fizzwick]] : popolata da [[Nani\|Nani]], [[Gnomi\|Gnomi]] e [[Halfling\|Halfling]]. 
 6. [[Vael\|Vael]] : la cui popolazione è costituita da [[Drow\|Drow]], [[Orchi\|Orchi]], [[Goblin\|Goblin]] e [[Mezz'Orchi\|Mezz'Orchi]]. 
 7. [[Escalion\|Escalion]] : luogo d'origine di [[Dragonidi\|Dragonidi]] e [[Koboldi\|Koboldi]].
 8. [[Crimson Reach\|Crimson Reach]]: dove vivono principalmente [[Teafling\|Teafling]]
+
+Di seguito troverete isole che non rientrano in nessuna delle classificazioni precedenti:
+
+9. [[Isola Misteriosa\|Isola Misteriosa]]: una misteriosa isola sommersa. 
 
 ## Peculiarità dell'Arcipelago.
 
