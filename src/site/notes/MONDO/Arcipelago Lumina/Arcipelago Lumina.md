@@ -27,7 +27,7 @@ Di seguito troverete la lista delle isole minori che compongono L'[[MONDO/Arcipe
 
 Di seguito troverete isole che non rientrano in nessuna delle classificazioni precedenti:
 
-9. [[Isola Misteriosa\|Isola Misteriosa]]: una misteriosa isola sommersa. 
+9. [[MONDO/Arcipelago Lumina/Isole/Isola Misteriosa\|Isola Misteriosa]]: una misteriosa isola sommersa. 
 
 ## Peculiarità dell'Arcipelago.
 
